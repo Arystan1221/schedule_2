@@ -8,7 +8,7 @@
 /**
  * Description of ScheduleMap
  *
- * @author Sergey
+ * @author Arystan
  */
 class ScheduleMap extends BaseMap {
 
